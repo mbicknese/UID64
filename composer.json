@@ -1,0 +1,13 @@
+{
+    "name": "mbicknese/uid64",
+    "description": "64-bit based UIDs, using both time and random bits. Useful for small string representations of IDs.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maarten Bicknese",
+            "email": "maarten.bicknese@gmail.com"
+        }
+    ],
+    "require": {}
+}
