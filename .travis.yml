@@ -2,12 +2,8 @@ language: php
 php:
   - '7.1'
   - nightly
-  - hhvm-3.20
-  - hhvm-nightly
 
-sudo: required
-dist: trusty
-group: edge
+sudo: false
 
 cache:
   directories:
