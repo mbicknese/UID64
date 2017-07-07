@@ -3,7 +3,7 @@ namespace MBicknese\Tests\UID64;
 
 use MBicknese\UID64\InvalidUid64Exception;
 use MBicknese\UID64\InvalidUid64TextException;
-use MBicknese\UID64\UID64;
+use MBicknese\UID64\Uid64;
 use PHPUnit\Framework\TestCase;
 
 /**
